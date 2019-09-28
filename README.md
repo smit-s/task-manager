@@ -1,5 +1,5 @@
 # Steps to run the project
-See that latest version of nodejs is installed.
+See that latest version of nodejs,reat,react-dom is installed.
 
 1. Download the files.
 2. Open terminal and set path to this this directory.
